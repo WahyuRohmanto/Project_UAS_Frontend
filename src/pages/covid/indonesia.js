@@ -18,7 +18,6 @@ function Indonesia() {
     getStatus();
   }, []);
 
-  console.log(globals);
 
   return (
     <>

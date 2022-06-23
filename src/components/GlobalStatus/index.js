@@ -20,7 +20,7 @@ function GlobalStatus() {
     getStatus();
   }, []);
 
-  console.log(globals);
+
 
   return (
     <>
