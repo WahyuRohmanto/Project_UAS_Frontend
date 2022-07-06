@@ -16,6 +16,7 @@ const ProvincesStyles = styled.div`
   .container {
     margin: 1rem;
     padding: 10px auto;
+    overflow-x: auto;
   }
 
   table {
