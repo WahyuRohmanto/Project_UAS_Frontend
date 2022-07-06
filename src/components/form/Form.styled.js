@@ -64,7 +64,7 @@ const FormStyled = styled.div`
 
   }
   .add__img {
-    width: 30rem;
+    width: 19rem;
   }
 
   @media screen and (min-width: 992px) {
@@ -79,6 +79,10 @@ const FormStyled = styled.div`
     .add__title {
       text-align: center;
     }
+    
+     .add__img {
+    width: 30rem;
+  }
     .container__right {
       text-align: left;
     }
